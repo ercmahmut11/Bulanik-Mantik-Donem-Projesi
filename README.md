@@ -1,8 +1,8 @@
-# 🧠 Otonom Çamaşır Makinesi Bulanık Kontrol Sistemi
+#  Otonom Çamaşır Makinesi Bulanık Kontrol Sistemi
 
 Bu proje, Bulanık Mantık dersi dönem ödevi kapsamında **Mahmut** tarafından geliştirilmiştir. Geleneksel makinelerin aksine, çamaşırların kirlilik durumunu, kumaş hassasiyetini ve ağırlığını analiz ederek su, enerji ve deterjan tasarrufu sağlayan otonom bir sistem simüle eder.
 
-## 📋 Proje Yapısı
+##  Proje Yapısı
 
 ### 1. Giriş ve Çıkış Değişkenleri
 * **Girişler:** Kirlilik Derecesi (%0-100), Kumaş Hassasiyeti (%0-100), Çamaşır Ağırlığı (0-10 kg)
@@ -19,7 +19,7 @@ Sistemde **Mamdani** tipi çıkarım mekanizması kullanılmış ve en az 15 ade
 
 ---
 
-## 💻 Kurulum ve Çalıştırma
+##  Kurulum ve Çalıştırma
 
 1. Gerekli kütüphaneleri yükleyin:
    ```bash
