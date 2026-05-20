@@ -34,4 +34,4 @@ streamlit run app.py
 
  Değerlendirme
 * Güçlü Yönleri: Sistem lineer olmayan insan kararlarını başarıyla modeller ve kaynak israfını önler.
-* Zayıf Yönleri: Kurallar el ile yazılmıştır. Güncel yaklaşımlarda bu kurallar yapay sini
+* Zayıf Yönleri: Kurallar el ile yazılmıştır. Güncel yaklaşımlarda bu kurallar yapay sinir ağları (ANFIS) ile veriden otomatik öğrenilmektedir.
